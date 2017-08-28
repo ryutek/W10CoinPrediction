@@ -11,4 +11,4 @@
   Final submission - W10Coin LightGBM Final Submission V4.ipynb
   
   3. Model files
-  /model/*
+  Run model_test.py after putting model_test.py and the source files in the same folder
