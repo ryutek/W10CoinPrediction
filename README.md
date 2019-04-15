@@ -7,8 +7,8 @@
   /script/
   
   2. Python Script Files
-  Sample validation - W10Coin LightGBM Sample Validation Final.ipynb
-  Final submission - W10Coin LightGBM Final Submission V4.ipynb
+  - Sample validation - W10Coin LightGBM Sample Validation Final.ipynb
+  - Final submission - W10Coin LightGBM Final Submission V4.ipynb
   
   3. Model files
   Run model_test.py after putting model_test.py and the source files in the same folder
